@@ -1,1 +1,4 @@
-NONE
+
+Documentation Content created by GnuBee is licensed under the following license : CC-BY-SA
+http://creativecommons.org/licenses/by-sa/4.0/
+
